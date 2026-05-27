@@ -77,7 +77,7 @@ export const NetworkVisualizer: React.FC<NetworkVisualizerProps> = ({ subnets, e
                   onClick={() => setSelectedSubnet(sub)}
                   className={`p-3 rounded-md cursor-pointer transition-all border text-left ${
                     selectedSubnet?.cidr === sub.cidr
-                      ? "bg-emerald-550/10 border-emerald-500 shadow-md"
+                      ? "bg-emerald-500/10 border-emerald-500 shadow-md"
                       : "bg-brand-bg border-brand-border hover:border-brand-accent"
                   }`}
                 >
@@ -108,7 +108,7 @@ export const NetworkVisualizer: React.FC<NetworkVisualizerProps> = ({ subnets, e
                   onClick={() => setSelectedSubnet(sub)}
                   className={`p-3 rounded-md cursor-pointer transition-all border text-left ${
                     selectedSubnet?.cidr === sub.cidr
-                      ? "bg-purple-550/10 border-purple-500 shadow-md"
+                      ? "bg-purple-500/10 border-purple-500 shadow-md"
                       : "bg-brand-bg border-brand-border hover:border-brand-accent"
                   }`}
                 >
