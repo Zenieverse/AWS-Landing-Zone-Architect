@@ -1,0 +1,6 @@
+{
+  "name": "AWS Landing Zone Architect",
+  "description": "Enterprise-grade multi-account AWS Landing Zone architect, dynamic CIDR subnet visualizer, FinOps estimator, and interactive IaC generator aligned to the Well-Architected Framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
