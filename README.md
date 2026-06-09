@@ -8,6 +8,8 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/6927908c-4f32-41c7-8656-9ad615a32966
 
+or @ https://aws-landing-zone-architect-764082783379.us-west1.run.app
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
